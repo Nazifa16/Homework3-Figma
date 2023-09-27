@@ -160,7 +160,7 @@
 .sec3-card2,
 .sec3-card3 {
   /*layout*/
-  width: 427px;
+  width: 33%;
   height: 340px;
   flex-shrink: 0;
   display: flex;
@@ -228,7 +228,8 @@
 /* SECTION-4 PART-1*/
 .sec4-part1 {
   display: flex;
-  width: 644px;
+  /* width: 644px; */
+  width: 100%;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;

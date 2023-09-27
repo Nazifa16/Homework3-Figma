@@ -63,11 +63,7 @@
 
   .section5-part1,
   .section5-part2 {
-    width: 80%;
-  }
-
-  .section5-part1 {
-    height: none;
+    width: 100%;
   }
 
   .sec5-desc {
