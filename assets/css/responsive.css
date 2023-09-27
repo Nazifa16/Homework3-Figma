@@ -41,6 +41,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 34px;
+    padding-bottom: 40px;
     width: 100%;
     justify-content: center;
   }
@@ -48,20 +49,29 @@
   .sec3-card1,
   .sec3-card2,
   .sec3-card3 {
-    width: 600px;
-    height: 500px;
+    width: 100%;
   }
   .sec4-part2 {
     margin: 0;
   }
 
-  .sec4-part1 {
-    padding-top: 0;
-  }
   .section5-all,
   .section4-all {
     flex-direction: column-reverse;
     gap: 16px;
+  }
+
+  .section5-part1,
+  .section5-part2 {
+    width: 80%;
+  }
+
+  .section5-part1 {
+    height: none;
+  }
+
+  .sec5-desc {
+    padding-bottom: 40px;
   }
 }
 /*LAPTOP VERSION*/
