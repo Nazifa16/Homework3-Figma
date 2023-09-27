@@ -1,0 +1,13 @@
+:root {
+  /* BASIC COLORS */
+  --MyGreen: #71a894;
+  --BasicBlack: #303031;
+  --BorderColor: #e7e7e7;
+  --BasicParagraph: #66645e;
+  --BodyColor: #f9f9f9;
+  --ColorWhite: #ffffff;
+
+  /*  FONTS */
+  --FontMain: "Roboto", sans-serif;
+  --FontOpensans: "Open Sans", sans-serif;
+}

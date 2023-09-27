@@ -1,0 +1,54 @@
+@media screen and (max-width: 900px) {
+  .navbar {
+    display: none;
+  }
+  .hamb-btn {
+    display: block;
+  }
+  .info {
+    flex-direction: column-reverse;
+    gap: 24px;
+
+  }
+  .info-content,
+  .info-img {
+    width: 100%;
+  }
+  .info-content {
+    align-items: center;
+    text-align: center;
+    gap: 14px;
+  }
+
+  .btn{
+    align-self: center;
+  }
+
+  .info-title {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .title-desc{
+    gap: 24px;
+  }
+
+  .info-desc {
+    font-size: 14px;
+    line-height: 32px;
+}
+/*LAPTOP VERSION*/
+@media screen and (max-width: 1200px) {
+  .nav-list {
+    gap: 22px;
+  }
+  .info-title {
+    font-size: 50px;
+    line-height: 40px;
+  }
+
+  .info-desc {
+    font-size: 18px;
+    line-height: 32px;
+  }
+}
