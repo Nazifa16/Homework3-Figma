@@ -55,14 +55,19 @@
     margin: 0;
   }
 
-  .section5-all,
   .section4-all {
     flex-direction: column-reverse;
     gap: 16px;
   }
 
-  .section5-part1,
-  .section5-part2 {
+  .section5-all {
+    flex-direction: column-reverse;
+    gap: 90px;
+  }
+
+  .sec4-part1,
+  .sec5-part1,
+  .sec5-part2 {
     width: 100%;
   }
 
